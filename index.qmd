@@ -11,10 +11,7 @@ webr:
 
 # Preface {.unnumbered}
 
-```{=typst}
-$ (a_1)/(b_1) $
-
-```
+$a=b+c$
 
 This is a Quarto book.
 
