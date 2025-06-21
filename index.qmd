@@ -11,6 +11,11 @@ webr:
 
 # Preface {.unnumbered}
 
+```{=typst}
+$ (a_1)/(b_1) $
+
+```
+
 This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
